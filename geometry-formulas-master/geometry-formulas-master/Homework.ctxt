@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Homework
+comment0.text=\r\n\ Just\ a\ demo\ of\ how\ you\ can\ access\ functions\ in\ one\ class\ from\ another.\r\n\ \r\n\ @author\ Jon\ Cooper\ \r\n\ @version\ August\ 23,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
